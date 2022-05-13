@@ -7,10 +7,9 @@ public class SwapStringwithoutvariable {
 		String b="World!";
 		
 		a=a+b;
-		System.out.println(a.length());
-		System.out.println(b.length());
+		
 		b=a.substring(0, (a.length()-b.length()));
-		System.out.println(b.length());
+		//System.out.println(b.length());
 		a=a.substring(b.length());
 		
 		System.out.println(a);
