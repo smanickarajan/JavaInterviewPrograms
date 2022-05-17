@@ -1,0 +1,12 @@
+package EnumConcept;
+
+public class TestEnum {
+
+	public static void main(String[] args) {
+		System.out.println(Size.SMALL);
+		
+		System.out.println(Size.SMALL.ordinal());
+
+	}
+
+}

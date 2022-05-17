@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\CoreJavaInterview\.metadata\.plugins\org.eclipse.jdt.core
+1682496485.index
+3460567857.index
+4097494138.index

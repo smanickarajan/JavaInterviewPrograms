@@ -1,0 +1,19 @@
+package com.corejava.interviewquestions;
+
+import java.util.Arrays;
+
+public class CheckArrayEquality {
+
+	public static void main(String[] args) {
+		int a1[]= {1,2,3,4,5};
+		int a2[]={1,2,3,6,5};
+		
+	boolean status = Arrays.equals(a1, a2);
+	if (status)
+		System.out.println("Equal");
+	else
+		System.out.println("Not Equal");
+
+	}
+
+}

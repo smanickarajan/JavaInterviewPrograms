@@ -1,0 +1,7 @@
+package EnumConcept;
+
+public enum Size {
+SMALL,
+MEDIUM,
+LARGE;
+}
